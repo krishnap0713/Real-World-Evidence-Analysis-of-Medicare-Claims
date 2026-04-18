@@ -3,6 +3,8 @@ SQL &amp; Python-based analysis of Medicare claims data to identify cost drivers
 
 This project analyzes Medicare inpatient and outpatient claims data to identify the major drivers of healthcare cost, utilization, and patient financial burden. The analysis combines advanced SQL for data extraction and transformation with Python, Pandas, and Matplotlib for further analysis and visualization.
 The project focuses on how chronic disease burden, repeated outpatient care, high-cost inpatient episodes, and patient subgroups influence Medicare spending and out-of-pocket responsibility. The overall findings show that while some conditions drive very high utilization, a smaller set of severe chronic conditions drives a large share of total spending.
+<img width="777" height="454" alt="image" src="https://github.com/user-attachments/assets/0de66897-0936-4c15-8378-51ce87d9e0b1" />
+
 
 Dataset
 Source: CMS Synthetic Medicare Claims Data (DE-SynPUF)
