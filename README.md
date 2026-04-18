@@ -6,10 +6,12 @@ The project focuses on how chronic disease burden, repeated outpatient care, hig
 
 Dataset
 Source: CMS Synthetic Medicare Claims Data (DE-SynPUF)
+
 Tables used:
 beneficiary_summary
 inpatient_claims
 outpatient_claims
+
 These tables were used to study:
 inpatient DRGs
 outpatient HCPCS utilization
