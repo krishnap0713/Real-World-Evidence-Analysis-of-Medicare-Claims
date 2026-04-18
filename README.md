@@ -58,7 +58,7 @@ RANK()
 DENSE_RANK()
 ROW_NUMBER()
 SUM() OVER()
-AVG() OVER(PARTITION BY ...)
+AVG() OVER(PARTITION BY)
 These helped identify:
 highest-cost providers
 top DRGs by payment
@@ -88,6 +88,7 @@ utilization and cost
 inpatient stay and payment
 chronic disease burden and spending
 patient burden and payer contribution
+
 Key Analyses Performed
 
 1. Inpatient DRG Analysis
